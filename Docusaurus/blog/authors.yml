@@ -21,3 +21,19 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+andriyo:
+  name: Andriyo Averill Fahrezi
+  title: Ave
+  url: https://github.com/muzkii
+  image_url: https://b.fssta.com/uploads/application/nba/headshots/1670.png
+  socials:
+    github: muzkii
+
+adyo:
+  name: Adyo Arkan Prawira
+  title: Adyo
+  url: https://github.com/adyoprawira
+  image_url: https://a.espncdn.com/i/headshots/nba/players/full/4683774.png
+  socials: 
+    github: adyoprawira
